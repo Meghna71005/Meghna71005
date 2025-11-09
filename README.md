@@ -1,7 +1,9 @@
 ## 👋Hello there, I'm Meghna!
 
 🎓 B.Tech @ KIET | BS @ IIT Madras (Scholar)
+
 🎯 FFE Scholar ’23 | AWS AI & ML Scholar (Top 1.5k globally)
+
 🌱 Currently exploring Deep Learning, GenAI, and scalable AI-powered web apps.  
 
 ### 📫 Socials 
