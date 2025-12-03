@@ -35,3 +35,6 @@
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logoColor=white)
 
 ---
+### 📊 GitHub Stats
+
+![Meghna's GitHub stats](https://github-readme-stats.vercel.app/api?username=Meghna71005&show_icons=true&theme=tokyonight)
