@@ -37,4 +37,5 @@
 ---
 ### 📊 GitHub Stats
 
-![Meghna's GitHub stats](https://github-readme-stats.vercel.app/api?username=Meghna71005&show_icons=true&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=Meghna71005&theme=radical)
